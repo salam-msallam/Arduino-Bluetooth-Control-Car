@@ -18,7 +18,6 @@ void setup() {
   pinMode(rightMotorBackward,OUTPUT);   //right motor reverse
   pinMode(rightLed,OUTPUT);
   pinMode(leftLed,OUTPUT);
-  pinMode(bezo,OUTPUT);
   Serial.begin(9600);
 }
  
